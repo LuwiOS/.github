@@ -1,0 +1,9 @@
+# ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: false
+contact_links:
+  - name: LuwiOS Documentation
+    url: https://luwios-docs.vercel.app
+    about: View guides and installation instructions
+  - name: Community Support
+    url: https://github.com/luwios/luwios/discussions
+    about: Ask questions and share ideas   
